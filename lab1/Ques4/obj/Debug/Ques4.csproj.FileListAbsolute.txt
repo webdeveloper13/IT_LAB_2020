@@ -1,0 +1,9 @@
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\bin\Debug\Ques4.exe.config
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\bin\Debug\Ques4.exe
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\bin\Debug\Ques4.pdb
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\obj\Debug\Ques4.Form1.resources
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\obj\Debug\Ques4.Properties.Resources.resources
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\obj\Debug\Ques4.csproj.GenerateResource.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\obj\Debug\Ques4.csproj.CoreCompileInputs.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\obj\Debug\Ques4.exe
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques4\obj\Debug\Ques4.pdb
