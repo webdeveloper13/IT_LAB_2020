@@ -1,0 +1,13 @@
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\bin\Debug\netcoreapp3.1\ques1.exe
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\bin\Debug\netcoreapp3.1\ques1.deps.json
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\bin\Debug\netcoreapp3.1\ques1.runtimeconfig.json
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\bin\Debug\netcoreapp3.1\ques1.runtimeconfig.dev.json
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\bin\Debug\netcoreapp3.1\ques1.dll
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\bin\Debug\netcoreapp3.1\ques1.pdb
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\obj\Debug\netcoreapp3.1\ques1.csprojAssemblyReference.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\obj\Debug\netcoreapp3.1\ques1.AssemblyInfoInputs.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\obj\Debug\netcoreapp3.1\ques1.AssemblyInfo.cs
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\obj\Debug\netcoreapp3.1\ques1.csproj.CoreCompileInputs.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\obj\Debug\netcoreapp3.1\ques1.dll
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\obj\Debug\netcoreapp3.1\ques1.pdb
+C:\Users\IT_Lab\Desktop\suryansh_170905572\ques1\obj\Debug\netcoreapp3.1\ques1.genruntimeconfig.cache

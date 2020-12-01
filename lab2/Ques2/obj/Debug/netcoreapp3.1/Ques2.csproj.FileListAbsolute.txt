@@ -1,0 +1,12 @@
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\bin\Debug\netcoreapp3.1\Ques2.exe
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\bin\Debug\netcoreapp3.1\Ques2.deps.json
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\bin\Debug\netcoreapp3.1\Ques2.runtimeconfig.json
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\bin\Debug\netcoreapp3.1\Ques2.runtimeconfig.dev.json
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\bin\Debug\netcoreapp3.1\Ques2.dll
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\bin\Debug\netcoreapp3.1\Ques2.pdb
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\obj\Debug\netcoreapp3.1\Ques2.AssemblyInfoInputs.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\obj\Debug\netcoreapp3.1\Ques2.AssemblyInfo.cs
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\obj\Debug\netcoreapp3.1\Ques2.csproj.CoreCompileInputs.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\obj\Debug\netcoreapp3.1\Ques2.dll
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\obj\Debug\netcoreapp3.1\Ques2.pdb
+C:\Users\IT_Lab\Desktop\suryansh_170905572\lab2\Ques2\obj\Debug\netcoreapp3.1\Ques2.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\bin\Debug\Ques3.exe.config
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\bin\Debug\Ques3.exe
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\bin\Debug\Ques3.pdb
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\obj\Debug\Ques3.csprojAssemblyReference.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\obj\Debug\Ques3.Form1.resources
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\obj\Debug\Ques3.Properties.Resources.resources
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\obj\Debug\Ques3.csproj.GenerateResource.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\obj\Debug\Ques3.csproj.CoreCompileInputs.cache
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\obj\Debug\Ques3.exe
+C:\Users\IT_Lab\Desktop\suryansh_170905572\Ques3\obj\Debug\Ques3.pdb
